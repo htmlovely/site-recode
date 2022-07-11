@@ -1,0 +1,187 @@
+
+.flex-container{
+
+    display:flex ; 
+    justify-content: space-around;
+
+    
+} 
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#promo{
+
+    display: flex ;
+    width: 100%;
+    justify-content: space-around;
+
+}
+
+#contato {
+    width: auto;
+    
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.espaco{
+
+    width: 5%;
+
+}
+
+.card {
+
+    width: 40%;
+
+}
+#carrossel{
+
+background-color:beige;
+display: flex;
+width: 50%;
+
+align-items: center;
+
+}
+.d-block{
+
+    width: 100%;
+
+
+}
+
+.completar{
+
+    width: auto;
+
+}
+
+#alinhar{
+
+background-color:white;
+display: flex;
+width: 100%;
+justify-content: center;
+
+}
+
+#cards {
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+
+}
+
+.card{
+    width: 18em;
+    align-items: center;
+    
+}
+
+.card1{
+
+    background-color: rgb(61, 61, 245);
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 18em;
+    height: 13em;
+    border-radius: 1%;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+
+.card2{
+
+    background-color: #08ca32;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 18em;
+    height: 13em;
+    border-radius: 1%;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+.card3{
+
+    background-color: rgb(255, 0, 0);
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 18em;
+    height: 13em;
+    border-radius: 1%;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+
+.card-titulo1{
+
+    width: 8em;
+    display: flex;
+    background-color: #091dd1;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(64, 0, 124);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-titulo2{
+
+    width: 8em;
+    display: flex;
+    background-color: rgb(37, 170, 4);
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(29, 124, 0);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-titulo3{
+
+    width: 8em;
+    display: flex;
+    background-color: #d10404;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(173, 0, 0);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.texto{
+ 
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+
+
